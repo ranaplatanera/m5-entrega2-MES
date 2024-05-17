@@ -1,0 +1,1 @@
+export { jwtConfig } from "./AuthConfig";
